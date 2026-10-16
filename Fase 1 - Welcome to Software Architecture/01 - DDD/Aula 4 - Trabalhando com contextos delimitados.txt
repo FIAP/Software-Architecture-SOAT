@@ -1,0 +1,8 @@
+Aula 4 - Trabalhando com contextos delimitados
+Fase 1 - Welcome to Software Architecture
+Capítulo: DDD
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=492415&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=492424
+
+Obs.: links exigem login na plataforma FIAP.

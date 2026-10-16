@@ -1,0 +1,8 @@
+Aula 4 - Ingestão de Dados
+Fase 4 - Arquitetura de microsserviços
+Capítulo: Banco de dados em Grafos
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=544199&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=544204
+
+Obs.: links exigem login na plataforma FIAP.

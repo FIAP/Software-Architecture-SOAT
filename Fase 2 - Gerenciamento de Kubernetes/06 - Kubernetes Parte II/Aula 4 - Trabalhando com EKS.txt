@@ -1,0 +1,8 @@
+Aula 4 - Trabalhando com EKS
+Fase 2 - Gerenciamento de Kubernetes
+Capítulo: Kubernetes Parte II
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=517079&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=517088
+
+Obs.: links exigem login na plataforma FIAP.

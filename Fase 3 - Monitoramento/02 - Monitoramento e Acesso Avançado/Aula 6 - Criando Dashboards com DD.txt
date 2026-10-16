@@ -1,0 +1,8 @@
+Aula 6 - Criando Dashboards com DD
+Fase 3 - Monitoramento
+Capítulo: Monitoramento e Acesso Avançado
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=533729&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=533741
+
+Obs.: links exigem login na plataforma FIAP.

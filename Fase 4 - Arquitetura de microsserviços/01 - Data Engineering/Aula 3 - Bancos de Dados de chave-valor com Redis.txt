@@ -1,0 +1,8 @@
+Aula 3 - Bancos de Dados de chave-valor com Redis
+Fase 4 - Arquitetura de microsserviços
+Capítulo: Data Engineering
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=544183&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=544190
+
+Obs.: links exigem login na plataforma FIAP.

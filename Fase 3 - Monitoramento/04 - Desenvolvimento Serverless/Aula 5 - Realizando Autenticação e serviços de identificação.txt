@@ -1,0 +1,8 @@
+Aula 5 - Realizando Autenticação e serviços de identificação
+Fase 3 - Monitoramento
+Capítulo: Desenvolvimento Serverless
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=533696&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=533702
+
+Obs.: links exigem login na plataforma FIAP.

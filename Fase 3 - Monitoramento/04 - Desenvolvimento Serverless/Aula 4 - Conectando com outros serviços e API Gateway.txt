@@ -1,0 +1,8 @@
+Aula 4 - Conectando com outros serviços e API Gateway
+Fase 3 - Monitoramento
+Capítulo: Desenvolvimento Serverless
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=533695&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=533701
+
+Obs.: links exigem login na plataforma FIAP.

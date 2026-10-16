@@ -1,0 +1,8 @@
+Aula 2 - Modelagem de dados em grafos
+Fase 4 - Arquitetura de microsserviços
+Capítulo: Banco de dados em Grafos
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=544197&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=544202
+
+Obs.: links exigem login na plataforma FIAP.

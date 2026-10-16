@@ -1,0 +1,8 @@
+Aula 2 - Domain Storytelling
+Fase 1 - Welcome to Software Architecture
+Capítulo: DDD
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=492413&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=492422
+
+Obs.: links exigem login na plataforma FIAP.

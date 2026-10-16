@@ -1,0 +1,8 @@
+Aula 1 - Principais conceitos
+Fase 1 - Welcome to Software Architecture
+Capítulo: Qualidade de Software
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=492446&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=492452
+
+Obs.: links exigem login na plataforma FIAP.

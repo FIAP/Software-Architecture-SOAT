@@ -1,0 +1,8 @@
+Aula 1 - Introdução à Documentação de Arquitetura
+Fase 3 - Monitoramento
+Capítulo: Documentação de Arquitetura de Soluções
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=533705&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=533711
+
+Obs.: links exigem login na plataforma FIAP.

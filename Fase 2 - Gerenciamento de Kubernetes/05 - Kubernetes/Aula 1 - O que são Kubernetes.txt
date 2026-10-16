@@ -1,0 +1,8 @@
+Aula 1 - O que são Kubernetes
+Fase 2 - Gerenciamento de Kubernetes
+Capítulo: Kubernetes
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=517055&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=517063
+
+Obs.: links exigem login na plataforma FIAP.

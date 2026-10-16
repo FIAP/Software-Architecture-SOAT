@@ -1,0 +1,8 @@
+Aula 7 - Bancos de dados e Microsserviços
+Fase 4 - Arquitetura de microsserviços
+Capítulo: Data Engineering
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=544187&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=544194
+
+Obs.: links exigem login na plataforma FIAP.

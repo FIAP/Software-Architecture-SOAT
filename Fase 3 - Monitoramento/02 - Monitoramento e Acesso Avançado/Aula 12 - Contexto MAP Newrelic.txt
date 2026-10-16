@@ -1,0 +1,8 @@
+Aula 12 - Contexto MAP Newrelic
+Fase 3 - Monitoramento
+Capítulo: Monitoramento e Acesso Avançado
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=533735&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=533747
+
+Obs.: links exigem login na plataforma FIAP.

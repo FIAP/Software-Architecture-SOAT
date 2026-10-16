@@ -1,0 +1,8 @@
+Aula 11 - Criando Dashboards com Newrelic
+Fase 3 - Monitoramento
+Capítulo: Monitoramento e Acesso Avançado
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=533734&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=533746
+
+Obs.: links exigem login na plataforma FIAP.

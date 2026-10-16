@@ -1,0 +1,8 @@
+Aula 3 - Testando microsserviços
+Fase 4 - Arquitetura de microsserviços
+Capítulo: Estrutura de Microsserviços Parte II
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=544220&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=544226
+
+Obs.: links exigem login na plataforma FIAP.

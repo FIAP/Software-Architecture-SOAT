@@ -1,0 +1,8 @@
+Aula 4 - Variaveis e Output
+Fase 2 - Gerenciamento de Kubernetes
+Capítulo: Terraform
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=516935&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=516944
+
+Obs.: links exigem login na plataforma FIAP.

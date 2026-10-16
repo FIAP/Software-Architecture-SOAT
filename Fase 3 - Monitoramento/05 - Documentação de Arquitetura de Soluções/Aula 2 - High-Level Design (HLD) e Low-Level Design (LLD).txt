@@ -1,0 +1,8 @@
+Aula 2 - High-Level Design (HLD) e Low-Level Design (LLD)
+Fase 3 - Monitoramento
+Capítulo: Documentação de Arquitetura de Soluções
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=533706&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=533712
+
+Obs.: links exigem login na plataforma FIAP.

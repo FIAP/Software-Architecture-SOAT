@@ -1,0 +1,8 @@
+Aula 5 - Aplicando o padrão SAGA na prática - Parte II
+Fase 4 - Arquitetura de microsserviços
+Capítulo: SAGA Pattern
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=544246&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=544251
+
+Obs.: links exigem login na plataforma FIAP.

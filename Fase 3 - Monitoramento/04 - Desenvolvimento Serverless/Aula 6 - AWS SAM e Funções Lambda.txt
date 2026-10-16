@@ -1,0 +1,8 @@
+Aula 6 - AWS SAM e Funções Lambda
+Fase 3 - Monitoramento
+Capítulo: Desenvolvimento Serverless
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=533697&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=533703
+
+Obs.: links exigem login na plataforma FIAP.

@@ -1,0 +1,8 @@
+Aula 8 - Segurança no AWS EKS
+Fase 2 - Gerenciamento de Kubernetes
+Capítulo: Kubernetes Parte II
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=517083&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=517092
+
+Obs.: links exigem login na plataforma FIAP.

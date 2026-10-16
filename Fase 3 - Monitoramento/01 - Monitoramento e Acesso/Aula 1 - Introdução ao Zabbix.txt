@@ -1,0 +1,8 @@
+Aula 1 - Introdução ao Zabbix
+Fase 3 - Monitoramento
+Capítulo: Monitoramento e Acesso
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=533655&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=533658
+
+Obs.: links exigem login na plataforma FIAP.

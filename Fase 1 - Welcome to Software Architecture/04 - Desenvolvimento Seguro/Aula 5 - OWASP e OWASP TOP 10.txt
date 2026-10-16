@@ -1,0 +1,8 @@
+Aula 5 - OWASP e OWASP TOP 10
+Fase 1 - Welcome to Software Architecture
+Capítulo: Desenvolvimento Seguro
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=492463&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=492469
+
+Obs.: links exigem login na plataforma FIAP.

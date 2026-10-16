@@ -1,0 +1,8 @@
+Aula 7 - The architecture
+Fase 2 - Gerenciamento de Kubernetes
+Capítulo: Clean Architecture
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=516892&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=516900
+
+Obs.: links exigem login na plataforma FIAP.

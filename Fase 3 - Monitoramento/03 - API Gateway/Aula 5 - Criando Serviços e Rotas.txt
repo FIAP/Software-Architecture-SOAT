@@ -1,0 +1,8 @@
+Aula 5 - Criando Serviços e Rotas
+Fase 3 - Monitoramento
+Capítulo: API Gateway
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=533683&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=533689
+
+Obs.: links exigem login na plataforma FIAP.
