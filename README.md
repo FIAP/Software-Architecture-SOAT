@@ -45,5 +45,7 @@ Este repositório contém os materiais complementares divididos por fases, categ
 - [01 - Privacidade de Dados e LGPD](./Fase%205%20-%20LGPD%20e%20Gest%C3%A3o%20e%20lideran%C3%A7a/01%20-%20Privacidade%20de%20Dados%20e%20LGPD)
 - [02 - Estratégia de comunicação e negociação em projetos de TI](./Fase%205%20-%20LGPD%20e%20Gest%C3%A3o%20e%20lideran%C3%A7a/02%20-%20Estrat%C3%A9gia%20de%20comunica%C3%A7%C3%A3o%20e%20negocia%C3%A7%C3%A3o%20em%20projetos%20de%20TI)
 - [03 - Gestão de times de alto desempenho](./Fase%205%20-%20LGPD%20e%20Gest%C3%A3o%20e%20lideran%C3%A7a/03%20-%20Gest%C3%A3o%20de%20times%20de%20alto%20desempenho)
+- [Architecture Governance, Evolutionary Architecture e Fitness Functions](./Fase%205%20-%20LGPD%20e%20Gest%C3%A3o%20e%20lideran%C3%A7a/Architecture%20Governance%2C%20Evolutionary%20Architecture%20e%20Fitness%20Functions)
+- [Platform Engineering e GitOps](./Fase%205%20-%20LGPD%20e%20Gest%C3%A3o%20e%20lideran%C3%A7a/Platform%20Engineering%20e%20GitOps)
 
 <!-- INDEX:END -->
